@@ -1,0 +1,14 @@
+# Ignore Kaggle API key
+.kaggle/
+kaggle.json
+
+# Ignore data files
+data/raw/*
+data/processed/*
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore VS Code settings
+.vscode/
